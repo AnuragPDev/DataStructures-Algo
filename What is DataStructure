@@ -3,3 +3,5 @@ A Data Structure is a way to organising, storing and managing the data to enable
 There are two types Data Structure 
 1. Linear Data Structure (Array , Linked List , Stack ,Queue)
 2. Non-Linear Data Structure (Tree and Graph)
+
+## Arrays - It is an inear data structure which is used to store data of same type 
